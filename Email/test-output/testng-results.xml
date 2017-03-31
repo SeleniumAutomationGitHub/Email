@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Vitreos" duration-ms="14792" started-at="2016-03-03T19:46:43Z" finished-at="2016-03-03T19:46:58Z">
+  <suite name="Default suite" duration-ms="15357" started-at="2017-03-31T14:36:49Z" finished-at="2017-03-31T14:37:04Z">
     <groups>
     </groups>
-    <test name="Vitreos Test Result Firefox" duration-ms="14792" started-at="2016-03-03T19:46:43Z" finished-at="2016-03-03T19:46:58Z">
+    <test name="Default test" duration-ms="15357" started-at="2017-03-31T14:36:49Z" finished-at="2017-03-31T14:37:04Z">
       <class name="com.emaimail.EmailTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.emaimail.EmailTest@1c2c22f3]" name="beforeTest" is-config="true" duration-ms="14651" started-at="2016-03-04T01:16:43Z" finished-at="2016-03-04T01:16:58Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.emaimail.EmailTest@f5f2bb7]" name="beforeTest" is-config="true" duration-ms="13227" started-at="2017-03-31T20:06:49Z" finished-at="2017-03-31T20:07:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:com.emaimail.EmailTest@1c2c22f3]" name="f" duration-ms="125" started-at="2016-03-04T01:16:58Z" finished-at="2016-03-04T01:16:58Z">
+        <test-method status="PASS" signature="verifyAutoCompleteText()[pri:1, instance:com.emaimail.EmailTest@f5f2bb7]" name="verifyAutoCompleteText" duration-ms="2111" started-at="2017-03-31T20:07:02Z" description="AutoCompletFromSearchField" finished-at="2017-03-31T20:07:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
+        </test-method> <!-- verifyAutoCompleteText -->
       </class> <!-- com.emaimail.EmailTest -->
-    </test> <!-- Vitreos Test Result Firefox -->
-  </suite> <!-- Vitreos -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
